@@ -23,7 +23,7 @@
                 <key>result_output_var_name</key>
                 <string>nextcloud_version</string>
                 <key>url</key>
-                <string>https://nextcloud.com/install/#install-clients</string>
+                <string>https://nextcloud.com/install/</string>
             </dict>
             <key>Processor</key>
             <string>URLTextSearcher</string>
