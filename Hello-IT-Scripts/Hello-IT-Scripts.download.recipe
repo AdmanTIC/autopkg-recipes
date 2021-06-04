@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Hello-IT-Scripts from Github.</string>
 	<key>Identifier</key>
-	<string>com.github.jacobfgrant.download.HelloITScripts</string>
+	<string>com.github.admantic.download.HelloITScripts</string>
 	<key>Input</key>
 	<dict>
 		<key>GITHUB_REPO</key>

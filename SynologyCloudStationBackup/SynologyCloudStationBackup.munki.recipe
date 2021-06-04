@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads the latest Synology Cloud Station Backup DMG and imports it into Munki.</string>
     <key>Identifier</key>
-    <string>com.github.jacobfgrant.munki.SynologyCloudStationBackup</string>
+    <string>com.github.admantic.munki.SynologyCloudStationBackup</string>
     <key>Input</key>
     <dict>
         <key>MUNKI_REPO_SUBDIR</key>
@@ -33,7 +33,7 @@
     <key>MinimumVersion</key>
     <string>0.4.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.jacobfgrant.download.SynologyCloudStationBackup</string>
+    <string>com.github.admantic.download.SynologyCloudStationBackup</string>
     <key>Process</key>
     <array>
         <dict>

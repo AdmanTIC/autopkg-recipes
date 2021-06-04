@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of the ANTS framework from Github.</string>
 	<key>Identifier</key>
-	<string>com.github.jacobfgrant.download.ANTS-Framework</string>
+	<string>com.github.admantic.download.ANTS-Framework</string>
 	<key>Input</key>
 	<dict>
 		<key>GITHUB_REPO</key>

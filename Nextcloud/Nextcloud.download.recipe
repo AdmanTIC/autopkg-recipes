@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads the latest Nextcloud Mac client pkg.</string>
     <key>Identifier</key>
-    <string>com.github.jacobfgrant.download.Nextcloud</string>
+    <string>com.github.admantic.download.Nextcloud</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
