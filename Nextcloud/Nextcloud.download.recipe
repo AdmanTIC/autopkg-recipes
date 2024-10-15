@@ -19,7 +19,7 @@
             <key>Arguments</key>
             <dict>
                 <key>re_pattern</key>
-                <string>https://github.com/nextcloud/desktop/releases/download/v([3-9][\.0-9]*)/Nextcloud-[3-9][\.0-9]*\.pkg</string>
+                <string>https://github.com/nextcloud-releases/desktop/releases/download/v([3-9][\.0-9]*)/Nextcloud-[a-zA-Z0-9_.-]+\.pkg</string>
                 <key>result_output_var_name</key>
                 <string>nextcloud_version</string>
                 <key>url</key>
