@@ -19,7 +19,7 @@
             <key>Arguments</key>
             <dict>
                 <key>re_pattern</key>
-                <string>(?P&lt;download_url&gt;https://github.com/nextcloud-releases/desktop/releases/download/v(?P&lt;nextcloud_version&gt;[3-9][\.0-9]*)/(?P&lt;pkg_filename&gt;Nextcloud-[a-zA-Z0-9_.-]+\.pkg))</string
+                <string>(?P&lt;download_url&gt;https://github.com/nextcloud-releases/desktop/releases/download/v(?P&lt;nextcloud_version&gt;[3-9][\.0-9]*)/(?P&lt;pkg_filename&gt;Nextcloud-[a-zA-Z0-9_.-]+\.pkg))</string>
                 <key>url</key>
                 <string>https://nextcloud.com/install/</string>
             </dict>
